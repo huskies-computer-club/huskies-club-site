@@ -7,7 +7,7 @@
 	<meta name="description" content="East Los Angeles College Computer Club official website." />
 </svelte:head>
 
-<section id="hero">
+<section id="hero" class="h-96 border-4 border-amber-400 mb-24">
 	<h1>
 		to your new<br />SvelteKit app
 	</h1>
@@ -17,11 +17,11 @@
 
 </section>
 
-<section id="about">
+<section id="about" class="border-8 border-violet-500 mb-5">
 	<div class="container px-4 px-lg-5">
 		<div class="row gx-4 gx-lg-5 justify-content-center">
 			<div class="col-lg-8">
-				<h2 class="">Join Our Meetings</h2>
+				<h1 class="">Join Our Meetings</h1>
 				<p class="">
 					We meet Thursdays & Fridays from 5-10pm in the ELAC E7 building room 310A to work on exciting projects, learn the most in-demand skills, and meet accomplished guest speakers. Drop by to introduce yourself in person and feel welcome join our growing discord community to keep up with our events.
 				</p>
@@ -31,10 +31,10 @@
 	</div>
 </section>
 
-<section id="projects">
+<section id="projects" class="border-8 border-violet-500 mb-5">
 
 </section>
 
-<section id="contact">
+<section id="contact" class="border-8 border-violet-500 mb-5">
 
 </section>
