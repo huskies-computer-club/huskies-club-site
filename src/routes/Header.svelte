@@ -2,7 +2,7 @@
 	import logo from '$lib/images/elac-logo.svg';
 </script>
 
-<header class="sticky top-0" id="nav">
+<header class="sticky top-0  z-10" id="nav">
 	<nav>
 		<div class="navbar bg-secondary">
 			<div class="navbar-start">
