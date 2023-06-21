@@ -7,14 +7,19 @@
 	<meta name="description" content="East Los Angeles College Computer Club official website." />
 </svelte:head>
 
-<section id="hero" class="h-96 border-4 border-amber-400 mb-24">
-	<h1>
-		to your new<br />SvelteKit app
-	</h1>
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
+<section id="hero" class="">
+	<div class="hero min-h-screen" style="background-image: url(/src/lib/images/elac-tech-building.png);">
+		<div class="hero-overlay bg-opacity-60"></div>
+		<div class="hero-content text-center text-neutral-content">
+		  <div class="max-w-md">
+			<h1 class="mb-5 text-5xl font-bold">Huskies Computer Club</h1>
+			<p class="mb-2 text-xl">@ East Los Angeles College</p>
+			<p class="mb-2 text-xl">In Collaboration with the School of Business</p>
+			<p class="mb-4 text-xl">Get hands on software experience with us</p>
+			<button class="btn btn-primary"><a href="#about">Scroll Down</a></button>
+		  </div>
+		</div>
+	  </div>
 </section>
 
 <section id="about" class="border-8 border-violet-500 mb-5">
