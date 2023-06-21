@@ -30,10 +30,16 @@
 		<div class="row gx-4 gx-lg-5 justify-content-center">
 			<div class="col-lg-8 flex flex-col items-center">
 				<h1 class="text-3xl mt-5">Join Our Meetings</h1>
-				<p class="text-center my-5 text-black max-w-4xl ">
-					We meet Thursdays & Fridays from 5-10pm in the <span class="text-red-600"> ELAC E7 building room 310A </span> to
-					work on exciting projects, learn the most in-demand skills, and meet accomplished guest speakers.
-					Drop by to introduce yourself in person and <span class="text-blue-600"><a>join our discord community</a></span>
+				<p class="text-center my-5 text-black max-w-4xl">
+					We meet Thursdays & Fridays from 5-10pm in the <span class="text-red-600">
+						ELAC E7 building room 310A
+					</span>
+					to work on exciting projects, learn the most in-demand skills, and meet accomplished guest
+					speakers. Drop by to introduce yourself in person and
+					<span class="text-blue-600"
+						><a href="https://discord.gg/r9j9gSzaa" target="_blank">join our discord community</a
+						></span
+					>
 					to keep up with our events.
 				</p>
 			</div>
