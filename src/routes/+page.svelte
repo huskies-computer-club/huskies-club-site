@@ -1,5 +1,5 @@
 <script>
-	import club_meeting from '$lib/images/clubmeeting.png';
+	import peerProgramingImg from '$lib/images/peerprogram.png';
 </script>
 
 <svelte:head>
@@ -37,21 +37,43 @@
 					to work on exciting projects, learn the most in-demand skills, and meet accomplished guest
 					speakers. Drop by to introduce yourself in person and
 					<span class="text-blue-600"
-						><a href="https://discord.gg/r9j9gSzaa" target="_blank">join our discord community</a
+						><a href="https://discord.gg/ZCYaNhDyjy" target="_blank">join our discord community</a
 						></span
 					>
 					to keep up with our events.
 				</p>
 			</div>
 		</div>
-		<img
-			class="img-fluid margin"
-			src={club_meeting}
-			alt="A photograph of the official club meeting in person together."
-		/>
 	</div>
 </section>
 
-<section id="projects" class="border-8 border-violet-500 mb-5" />
+<section id="projects" class="border-8mb-5">
+	<div class="card lg:card-side bg-base-100 shadow-xl">
+		<figure><img src={peerProgramingImg} alt="Album" /></figure>
+		<div class="card-body">
+			<h1 class="card-title mb-3 text-2xl">We go beyond hands on keyboard</h1>
+			<ul class="text-xl">
+				<li class="mb-5 list-disc">
+					<span class="text-blue-400"
+						>Arduino <span class="text-blue-300">MicroControllers</span></span
+					> - for creating embedded systems like homeautomation
+				</li>
+				<li class="mb-5 list-disc">
+					<span class="text-red-400"
+						>Raspberry Pis' <span class="text-red-300">(SBCs)</span>
+					</span>for building big while keeping a friendly carbon footprint
+				</li>
+				<li class="mb-5 list-disc">
+					<span class="text-yellow-400">Server Administering</span>, deploying, and testing software
+				</li>
+			</ul>
+			<div class="card-actions justify-end">
+				<button class="btn btn-primary">
+					<a href="https://discord.gg/ZCYaNhDyjy" target="_blank">Get Involved</a>
+				</button>
+			</div>
+		</div>
+	</div>
+</section>
 
 <section id="contact" class="border-8 border-violet-500 mb-5" />
