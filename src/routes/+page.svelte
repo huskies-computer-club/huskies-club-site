@@ -37,7 +37,7 @@
 					to work on exciting projects, learn the most in-demand skills, and meet accomplished guest
 					speakers. Drop by to introduce yourself in person and
 					<span class="text-blue-600"
-						><a href="https://discord.gg/r9j9gSzaa" target="_blank">join our discord community</a
+						><a href="https://discord.gg/ZCYaNhDyjy" target="_blank">join our discord community</a
 						></span
 					>
 					to keep up with our events.
