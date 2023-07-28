@@ -1,5 +1,5 @@
 <script>
-	import club_meeting from '$lib/images/clubmeeting.png';
+	import peerProgramingImg from '$lib/images/peerprogram.png';
 </script>
 
 <svelte:head>
@@ -44,11 +44,6 @@
 				</p>
 			</div>
 		</div>
-		<img
-			class="img-fluid margin"
-			src={club_meeting}
-			alt="A photograph of the official club meeting in person together."
-		/>
 	</div>
 </section>
 
