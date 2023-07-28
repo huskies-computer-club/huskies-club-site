@@ -47,6 +47,33 @@
 	</div>
 </section>
 
-<section id="projects" class="border-8 border-violet-500 mb-5" />
+<section id="projects" class="border-8mb-5">
+	<div class="card lg:card-side bg-base-100 shadow-xl">
+		<figure><img src={peerProgramingImg} alt="Album" /></figure>
+		<div class="card-body">
+			<h1 class="card-title mb-3 text-2xl">We go beyond hands on keyboard</h1>
+			<ul class="text-xl">
+				<li class="mb-5 list-disc">
+					<span class="text-blue-400"
+						>Arduino <span class="text-blue-300">MicroControllers</span></span
+					> - for creating embedded systems like homeautomation
+				</li>
+				<li class="mb-5 list-disc">
+					<span class="text-red-400"
+						>Raspberry Pis' <span class="text-red-300">(SBCs)</span>
+					</span>for building big while keeping a friendly carbon footprint
+				</li>
+				<li class="mb-5 list-disc">
+					<span class="text-yellow-400">Server Administering</span>, deploying, and testing software
+				</li>
+			</ul>
+			<div class="card-actions justify-end">
+				<button class="btn btn-primary">
+					<a href="https://discord.gg/ZCYaNhDyjy" target="_blank">Get Involved</a>
+				</button>
+			</div>
+		</div>
+	</div>
+</section>
 
 <section id="contact" class="border-8 border-violet-500 mb-5" />
