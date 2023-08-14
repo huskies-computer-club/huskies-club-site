@@ -1,3 +1,6 @@
+
+<!-- This part of the code allows the user to -->
+
 <script>
 	import peerProgramingImg from '$lib/images/peerprogram.png';
 </script>
