@@ -5,7 +5,8 @@ This is an effort to rebuild [`the club's original vanilla html website`](https:
 ## Motivation:
 To start working together on software asynchronously. I will create tasks as issues so members can choose how to participate. The issues are meant to be a learning experience. Each issue will have a readiness level. The assignee has should know they have room for creativity. 
 
-
+## Getting Started 
+[`Guide on Getting Started on Web Dev Contributing`](https://www.notion.so/milliongrad/Club-Getting-started-on-Web-Dev-Tutorial-a31bf375340f47789fb6e4a6dfb46191?pvs=4)
 ## Developing
 
 First install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
