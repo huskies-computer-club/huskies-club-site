@@ -47,7 +47,7 @@
 	</div>
 </section>
 
-<section id="projects" class="border-8mb-5">
+<section id="projects" class="border-8mb-5 text-black">
 	<div class="card lg:card-side bg-base-100 shadow-xl">
 		<figure><img src={peerProgramingImg} alt="Album" /></figure>
 		<div class="card-body">
@@ -76,4 +76,35 @@
 	</div>
 </section>
 
-<section id="contact" class="border-8 border-violet-500 mb-5" />
+<section id="contact" class="mb-5 mt-5 text-black">
+	<div class="card bg-base-100 shadow-xl">
+		<div class="card-body">
+			<h2 class="card-title">📍 Location 📍</h2>
+			<p>1301 Avenida Cesar Chavez, Monterey Park, CA 91754</p>
+			<!-- this is the wrong room number ONLY A place holder for now -->
+			<p class="text text-green-500">
+				Building E7 Technology Center <br /> <span class="text-red-400">- 3rd Floor</span><br />-
+				<span class="text-blue-500">Room Number 318</span>
+			</p>
+			<div class="card-actions justify-end">
+				<button class="btn btn-primary"
+					><a
+						href="https://www.openstreetmap.org/directions?from=&to=34.04178%2C-118.14905#map=19/34.04164/-118.14972&layers=N"
+						target="_blank"
+						>Map it!
+					</a>
+				</button>
+			</div>
+		</div>
+	</div>
+	<div class="card bg-base-100 shadow-xl mt-8">
+		<div class="card-body">
+			<h2 class="card-title">📧 Email Club Advisor Rodriguez 📧</h2>
+			<div class="card-actions justify-end">
+				<button class="btn btn-primary">
+					<a href="mailto:rodrigc8@elac.edu">Send Email</a>
+				</button>
+			</div>
+		</div>
+	</div>
+</section>
