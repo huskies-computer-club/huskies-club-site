@@ -1,3 +1,6 @@
+
+<!-- This part of the code controls the header and the footer-->
+
 <script>
 	import Header from './Header.svelte';
 	import './styles.css';
