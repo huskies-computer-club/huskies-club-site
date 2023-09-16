@@ -2,7 +2,7 @@
 	import logo from '$lib/images/elac-logo.svg';
 </script>
 
-<header class="sticky top-0  z-10" id="nav">
+<header class="sticky top-0 z-10" id="nav">
 	<nav>
 		<div class="navbar bg-secondary">
 			<div class="navbar-start">
@@ -33,8 +33,7 @@
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
-				<!-- href needs to be switched to root path -->
-				<a href="#app" class="btn btn-ghost normal-case text-xl">Huskies Computer Club</a>
+				<a href="#app" class="btn btn-ghost normal-case text-lg">Huskies Comp Club</a>
 			</div>
 
 			<div class="navbar-center hidden lg:flex">
