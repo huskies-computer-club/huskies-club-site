@@ -1,8 +1,8 @@
-
 <!-- This part of the code allows the user to -->
 
 <script>
 	import peerProgramingImg from '$lib/images/peerprogram.png';
+	import elacTechBuildingImg from '$lib/images/elac-tech-building.png';
 </script>
 
 <svelte:head>
@@ -11,10 +11,7 @@
 </svelte:head>
 
 <section id="hero" class="">
-	<div
-		class="hero min-h-screen"
-		style="background-image: url(/src/lib/images/elac-tech-building.png);"
-	>
+	<div class="hero min-h-screen" style={`background-image: url(${elacTechBuildingImg});`}>
 		<div class="hero-overlay bg-opacity-60" />
 		<div class="hero-content text-center text-neutral-content">
 			<div class="max-w-md">
