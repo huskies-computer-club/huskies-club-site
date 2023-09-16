@@ -33,7 +33,7 @@
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
-				<a href="#app" class="btn btn-ghost normal-case text-lg">Huskies Comp Club</a>
+				<a href="#app" class="btn btn-ghost normal-case text-lg">Huskies Tech Club</a>
 			</div>
 
 			<div class="navbar-center hidden lg:flex">

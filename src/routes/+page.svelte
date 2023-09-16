@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Huskies Computer Club - ELAC</title>
+	<title>Huskies Tech Club - ELAC</title>
 	<meta name="description" content="East Los Angeles College Computer Club official website." />
 </svelte:head>
 
@@ -15,7 +15,7 @@
 		<div class="hero-overlay bg-opacity-60" />
 		<div class="hero-content text-center text-neutral-content">
 			<div class="max-w-md">
-				<h1 class="mb-5 text-5xl font-bold">Huskies Computer Club</h1>
+				<h1 class="mb-5 text-5xl font-bold">Huskies Tech Club</h1>
 				<p class="mb-2 text-xl">@ East Los Angeles College</p>
 				<p class="mb-2 text-xl">In Collaboration with the School of Business</p>
 				<p class="mb-4 text-xl">Get hands on software experience with us</p>

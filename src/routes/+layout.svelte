@@ -33,7 +33,7 @@
 			>
 
 			<!--Main footer text his is located on the bottom left side-->
-			<h1><b>Copyright © Huskies Computer Club 2023</b></h1>
+			<h1><b>Copyright © Huskies Tech Club 2023</b></h1>
 		</div>
 		<!-- This class controls the icons that are on the right of the page-->
 		<div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
