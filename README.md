@@ -7,6 +7,7 @@ To start working together on software asynchronously. I will create tasks as iss
 
 
 ## Developing
+If this is your first time follow [my getting started guide](https://milliongrad.notion.site/Club-Getting-started-on-Open-Source-a31bf375340f47789fb6e4a6dfb46191?pvs=4)
 
 First install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
